@@ -5,6 +5,8 @@
 
 package app;
 
+import gui.Frame;
+
 public class CedarwoodAcademyApp {
     public static void main(String[] args) {
         Frame program = new Frame();
