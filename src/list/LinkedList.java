@@ -5,7 +5,6 @@
 
 package list;
 
-import menu.Node;
 import java.util.NoSuchElementException;
 
 public class LinkedList<T> implements ListTemplate<T> {
